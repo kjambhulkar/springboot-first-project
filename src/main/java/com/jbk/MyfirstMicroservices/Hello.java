@@ -15,7 +15,7 @@ public class Hello {
 	@RequestMapping("perform")
 	public int add(){
 		
-		return 40+70;
+		return 40+80;
 	}
 
 }
